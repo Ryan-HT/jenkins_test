@@ -34,15 +34,7 @@ package info.talebi.P34_JenkinsGitHub;
 			* App username, password and Add
 		iii. check "Build when a change is pushed to BitBucket" so every time we push to bitbucket it will build
 		==============iv. check "Delete workspace before build starts" so when several working at same time not confilict
-3. Adding a webhook to bitbucket repository
-	a. Go to the repository working with Jenkins
-	b. Click on Settings
-	c. Under Workflow choose "Webhooks"
-	d. Click "Add Webhook"
-		i. Title "Jenkins"
-		ii. Enter you Jenkins URL + bitbucket-hook
-			http://95.217.155.19:8080/bitbucket-hook/
-		iii. leave the rest as default and "Save"
+2. NOTE COMPLETE HERE
 
  */
 
